@@ -97,13 +97,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Chittransh-89&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Chittransh-89&theme=dark&hide_border=false)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chittransh-89&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chittransh-89&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittransh-89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chittransh-89&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
