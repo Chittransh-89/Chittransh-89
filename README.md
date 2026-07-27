@@ -99,13 +99,21 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Chittransh-89&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <img src="https://readme-stats-eight-liart.vercel.app/api?username=Chittransh-89&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Chittransh-89&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Chittransh-89&theme=dark&hide_border=false" alt="Streak Stats"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittransh-89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-stats-eight-liart.vercel.app/api/top-langs/?username=Chittransh-89&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
 
----
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chittransh-89&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=Chittransh-89&icon=0&color=0)](https://visitcount.itsvg.in)
 
