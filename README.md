@@ -70,11 +70,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### `> github_stats --live`
-
 ---
 
 <div align="center">
@@ -82,11 +77,11 @@
 ### `> github_stats --live`
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chittransh-89&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chittransh-89&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chittransh-89&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chittransh-89&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p>
@@ -106,28 +101,6 @@
 ### `> visitor_count --increment`
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Chittransh-89&color=00FF41&style=for-the-badge&label=PROFILE+VISITORS)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-[ STATUS: ONLINE ] [ OPEN TO: Internships & Collaborations ] [ MOOD: Building Something Cool ]
-```
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-### `> visitor_count --increment`
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=00ff41&style=flat-square&label=PROFILE+VISITORS)
 
 </div>
 
