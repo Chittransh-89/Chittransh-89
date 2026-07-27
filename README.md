@@ -98,6 +98,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chittransh-89&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Chittransh-89&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
