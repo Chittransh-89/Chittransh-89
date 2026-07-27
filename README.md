@@ -77,15 +77,15 @@
 ### `> github_stats --live`
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chittransh-89&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://readme-stats-eight-liart.vercel.app/api?username=Chittransh-89&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chittransh-89&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://readme-stats-eight-liart.vercel.app/api/top-langs/?username=Chittransh-89&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=Chittransh-89&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Chittransh-89&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p>
@@ -93,7 +93,6 @@
 </p>
 
 </div>
-
 ---
 
 <div align="center">
