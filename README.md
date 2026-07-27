@@ -75,11 +75,49 @@
 
 ### `> github_stats --live`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=terminal&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+### `> github_stats --live`
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chittransh-89&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chittransh-89&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Chittransh-89&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chittransh-89&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> visitor_count --increment`
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Chittransh-89&color=00FF41&style=for-the-badge&label=PROFILE+VISITORS)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+[ STATUS: ONLINE ] [ OPEN TO: Internships & Collaborations ] [ MOOD: Building Something Cool ]
+```
+
+</div>
 
 </div>
 
