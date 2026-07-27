@@ -83,43 +83,6 @@
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://readme-stats-eight-liart.vercel.app/api?username=Chittransh-89&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Chittransh-89&theme=dark&hide_border=false" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-stats-eight-liart.vercel.app/api/top-langs/?username=Chittransh-89&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chittransh-89&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=Chittransh-89&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) + MirAI Terminal Hack -->
-
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
@@ -128,6 +91,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chittransh-89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Chittransh-89&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Chittransh-89&icon=0&color=0)](https://visitcount.itsvg.in
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chittransh-89&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=Chittransh-89&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
